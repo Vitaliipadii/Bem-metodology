@@ -65,7 +65,7 @@ h1, h2 {
     margin: 0 auto;
 }
 .header {
-    background-image: url(images/bg.jpg);
+    background-image: url(../images/bg.jpg);
     background-size: cover;
     width: 100%;
     height: 1000px;
@@ -154,7 +154,7 @@ h1, h2 {
 }
 
 .wrapper {
-    background-image: url(images/mainer.jpg);
+    background-image: url(../images/mainer.jpg);
     background-size: cover;
     width: 100%;
     height: 700px;
